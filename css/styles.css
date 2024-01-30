@@ -1,7 +1,7 @@
 body {
     font-family: "Roboto", sans-serif;
     color: #434455;
-    background: #ffffff;
+    background-color: #ffffff;
 }
 
 a {
@@ -10,4 +10,71 @@ a {
 
 ul {
     list-style-type: none;
+}
+
+.logo {
+    color: #4D5AE5;
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.167;
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+}
+
+.logo span {
+    color: #2E2F42;
+}
+
+.navigation-menu-list a {
+    color: #2E2F42;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.32px;
+}
+
+.navigation-menu-list a:hover,
+.navigation-menu-list a:focus {
+    color: #404BBF;
+}
+
+.contacts-list a {
+    color: #434455;
+    font-size: 16px;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: 0.32px;
+}
+
+.contacts-list a:hover,
+.contacts-list a:focus {
+    color: #404BBF;
+}
+
+.section-header {
+    background-color: #2E2F42;
+}
+
+.main-title {
+    color: #ffffff;
+    text-align: center;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 1.071;
+    letter-spacing: 1.12px;
+}
+
+.order-service {
+    background-color: #4D5AE5;
+    color: #ffffff;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.64px;
+}
+
+.order-service:hover,
+.order-service:focus {
+    background-color: #404BBF;
 }
