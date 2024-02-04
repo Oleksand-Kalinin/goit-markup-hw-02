@@ -18,7 +18,7 @@ ul {
     font-size: 18px;
     font-weight: 700;
     line-height: 1.17;
-    letter-spacing: 0.54px;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
 }
 
@@ -31,7 +31,7 @@ ul {
     font-style: normal;
     font-weight: 500;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
 }
 
 .navigation-menu-list-item-link:hover,
@@ -46,7 +46,7 @@ ul {
 .contact-list-item-link {
     color: #434455;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
 }
 
 .contact-list-item-link:hover,
@@ -64,7 +64,7 @@ ul {
     font-size: 56px;
     font-weight: 700;
     line-height: 1.07;
-    letter-spacing: 1.12px;
+    letter-spacing: 0.02em;
 }
 
 .order-service {
@@ -72,7 +72,7 @@ ul {
     color: #ffffff;
     font-weight: 500;
     line-height: 1.5;
-    letter-spacing: 0.64px;
+    letter-spacing: 0.04em;
     cursor: pointer;
 }
 
@@ -86,12 +86,12 @@ ul {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
-    letter-spacing: 0.4px;
+    letter-spacing: 0.02em;
 }
 
 .our-advantages-list-item-text {
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
 }
 
 .our-team {
@@ -104,7 +104,7 @@ ul {
     font-size: 36px;
     font-weight: 700;
     line-height: 1.11;
-    letter-spacing: 0.72px;
+    letter-spacing: 0.02em;
     text-transform: capitalize;
 }
 
@@ -118,7 +118,7 @@ ul {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
-    letter-spacing: 0.4px;
+    letter-spacing: 0.02em;
 }
 
 .our-team-list-item-text {
@@ -126,7 +126,7 @@ ul {
     font-size: 16px;
     line-height: 1.5;
     text-align: center;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
 }
 
 .our-portfolio-title {
@@ -135,7 +135,7 @@ ul {
     font-size: 36px;
     font-weight: 700;
     line-height: 1.11;
-    letter-spacing: 0.72px;
+    letter-spacing: 0.02em;
     text-transform: capitalize;
 }
 
@@ -144,12 +144,12 @@ ul {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
-    letter-spacing: 0.4px;
+    letter-spacing: 0.02em;
 }
 
 .our-portfolio-list-item-text {
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
 }
 
 .page-footer {
@@ -163,7 +163,7 @@ ul {
     font-style: normal;
     font-weight: 700;
     line-height: 1.17;
-    letter-spacing: 0.54px;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
 }
 
@@ -174,5 +174,5 @@ ul {
 .page-footer-text {
     color: #F4F4FD;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
 }
